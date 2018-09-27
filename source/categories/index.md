@@ -1,5 +1,9 @@
 ---
 title: Categories
-date: 2018-09-26 22:44:31
-layout: categories
 ---
+
+__>>__ <a href="/categories/News-on-Vape">News on Vape</a>
+__>>__ <a href="/categories/Future-Post">Future Post</a>
+__>>__ <a href="/categories/Vape-Up-To-Date">Vape Up To Date</a>
+__>>__ <a href="/categories/Vape-Magazine">Vape Magazine</a>
+__>>__ <a href="/categories/Culture-And-Vape">Culture And Vape</a>

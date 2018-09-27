@@ -2,17 +2,20 @@
 title: Vaping Laws - How Aged Should you Be to Vape
 date: 2018-8-06 13:00:00
 category: Vape Magazine
+tags:
+	- laws
+	- legal/illegal age
 ---
 
 ![](/images/5.jpg)
 
 All fifty claims have finally imposed age restrictions on the purchase of e-cigarette products. Along with get older limits, several states also have instituted laws about the use, taxation, and sales of e-cigarettes:
 
- - tax the sales of e-cigarettes, as with frequent cigarettes: Minnesota, California, NEW YORK, Louisiana, Kansas, Pennsylvania, West Virginia and the District of Columbia;
- - prohibit the indoor make use of e-cigarettes or in public areas areas, like bars and restaurants: Delaware, Hawaii, Maine, NJ, NY, Utah, Vermont, etc.;
- - have banned e-cigarette product sales through vending devices or self-service displays: New Mexico, NEW YORK, Ohio, Oklahoma, Oregon, SC, Texas, Vermont, West Virginia, Wyoming, Iowa, etc.
- 
- <!-- more -->
+-> tax the sales of e-cigarettes, as with frequent cigarettes: Minnesota, California, NEW YORK, Louisiana, Kansas, Pennsylvania, West Virginia and the District of Columbia;
+-> prohibit the indoor make use of e-cigarettes or in public areas areas, like bars and restaurants: Delaware, Hawaii, Maine, NJ, NY, Utah, Vermont, etc.;
+-> have banned e-cigarette product sales through vending devices or self-service displays: New Mexico, NEW YORK, Ohio, Oklahoma, Oregon, SC, Texas, Vermont, West Virginia, Wyoming, Iowa, etc.
+
+<!-- more -->
 
 How old must you be to get a vape? The actual age to legally purchase vapour goods varies from point out to state. Info compiled by the Public Health Law Middle at Northeastern University offers a clearer photo of e-cigarette regulations by state.
 

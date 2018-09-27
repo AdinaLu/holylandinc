@@ -1,29 +1,31 @@
 # Header
 menu:
-  首页: /
-  生活: /categories/life
-  归档: /archives
+  Home: /
+  Tags: /tags
+  Categories: /categories
+  Archives: /archives
+  About: /about
 
 # Content
-excerpt_link: ......
-fancybox: false
+excerpt_link: Read more >>
+fancybox: true
 
 # Sidebar
 sidebar: 
 widgets:
 - category
 - tag
-- tagcloud
+# - tagcloud
 - archive
 - recent_posts
-- links
+# - links
 
 # Links
 links:
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.png
+favicon: /logo.png
 twitter:
 google_plus:
 fb_admins: 

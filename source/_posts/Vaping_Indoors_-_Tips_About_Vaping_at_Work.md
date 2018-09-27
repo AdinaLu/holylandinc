@@ -2,14 +2,12 @@
 title: Vaping Indoors - Tips about Vaping at Work
 date: 2018-8-13 12:30:00
 category: Culture And Vape
+tags:
+	- vape indoor
+	- vape@work
 ---
 
 ![](/images/4.jpg)
-
- - The Unspoken Guidelines About Vaping Indoors
- - Vapour Cigarettes at work
- - Legalities and Penalties
- - So, Is It Possible To Vaporize Indoors?
 
 Vapers are now experiencing something similar as non-vapers are generally asking, why are actually vapers so annoying?
 

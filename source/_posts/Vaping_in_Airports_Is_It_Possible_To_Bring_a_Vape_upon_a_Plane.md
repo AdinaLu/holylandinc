@@ -2,26 +2,24 @@
 title: Vaping in Airports - Is It Possible To Bring a Vape upon a Plane?
 date: 2018-8-21 10:20:00
 category: Culture And Vape
+tags:
+	- vape indoor
+	- laws
+	- vape@work
 ---
 
 ![](/images/3.jpg)
 
- - Vape friendly airports in America
- - Countries where vaping is definitely allowed in airports
- - What to know about vaping and TSA rules at the airport
- - Tips on vape transportation
- - Portent what to find out about vapes on a plane
-
 Vaping devices range in sizes they can be found in, batteries, usability, etc. The technology used is certainly, however, the same: they possess a electric battery, a cartridge where in fact the e-liquid is kept, an element that vaporizes the liquid through heating, and a mouth-piece.
-
-<!-- more -->
 
 And for sure, there are a few issues with journeying with e-cigs and carrying vapes through airport security, and also to airplanes. All of the relevant information needed will help a traveller to stay on the right side of regulations when taking a business or any occasion trip.
 
-Major airports in America where vaping is illegal
- - Francisco International Airport
- - Philadelphia International Airport
- - Los Angeles Airport Terminal
+<!-- more -->
+
+Major airports in America where vaping is illegal:
+-> Francisco International Airport
+-> Philadelphia International Airport
+-> Los Angeles Airport Terminal
 
 ## Vaping and Flights
 
@@ -42,9 +40,9 @@ Do you require e-cig in airport within the US?
 There are a few vape friendly airports just like the John F Kennedy International Airport and the Laguardia Airport in NY. In these airports, vaping is normally allowed in a few terminals. Interestingly, this contravenes the Clean Indoor Air Act of NY State which will not allow vaping in either personal or public interior workplaces.
 
 A few of the countries which may have banned vaping within their airports include:
- - Singapore
- - Argentina
- - Hong Kong
+-> Singapore
+-> Argentina
+-> Hong Kong
 
 ## Major Airports Around the world and Their Vaping Rules
 
@@ -60,10 +58,10 @@ Airport security is in charge of the enforcement of airport rules and regulation
 
 On e-cigarettes and different vaping units, the TSA has listed units prohibited by the Federal government Aviation Authority (FAA) from being transported in checked handbags. Therefore, vaporizers, atomizers, e-cigarettes, vape pens and e-nicotine delivery devices should be stored inside carry-on luggage within the cabin.
 
- - Going past airport security and flying with vape pen in your carrier, you must have packed your e-cigarettes inside carry-on bags.
- - When being examined at the gate or at the plane side, vaping gadgets and e-cigarettes should be removed from the carry-on vape luggage or vape carrying cases.
- - That is also the case when you are flying with vape cartridges. There are dangers connected with packing e-cigarettes in checked bags.
- - Additionally, e-liquids have to be loaded in clear plastic bags and should not exceed the 3.4-ounce allowed liquid limit.
+-> Going past airport security and flying with vape pen in your carrier, you must have packed your e-cigarettes inside carry-on bags.
+-> When being examined at the gate or at the plane side, vaping gadgets and e-cigarettes should be removed from the carry-on vape luggage or vape carrying cases.
+-> That is also the case when you are flying with vape cartridges. There are dangers connected with packing e-cigarettes in checked bags.
+-> Additionally, e-liquids have to be loaded in clear plastic bags and should not exceed the 3.4-ounce allowed liquid limit.
 
 ## Tips about how to Pack Vapes in Airports
 
@@ -71,12 +69,12 @@ To avoid inconveniences in the airport or in a plane, be sure you follow the air
 
 Whether you are flying with a good vape pen or flying with a good vape cartridge be sure that:
 
- - everything loaded in a vape bag or a vape travel case;
- - ensure that extra batteries of your vape will be well stored;
- - store the batteries from magnets, loose transform or away from whatever could ignite them;
- - switch off all vape gadgets and before packing them in their appropriate vape bags;
- - consider packing your e-liquids in Ziploc bags as they can leak due to change in oxygen pressure as the plane ascends;
- - do not try to charge the e-cigarettes on an airplane.
+-> everything loaded in a vape bag or a vape travel case;
+-> ensure that extra batteries of your vape will be well stored;
+-> store the batteries from magnets, loose transform or away from whatever could ignite them;
+-> switch off all vape gadgets and before packing them in their appropriate vape bags;
+-> consider packing your e-liquids in Ziploc bags as they can leak due to change in oxygen pressure as the plane ascends;
+-> do not try to charge the e-cigarettes on an airplane.
 
 On top of all these, ensure compliance with all other vaping regulations by both the airport and the airline.
 
@@ -91,8 +89,8 @@ Nevertheless, one can carry vaping devices during flights but only in carry-abou
 So, is it possible to vape in a plane? Vaping can be prohibited in enclosed spots. In the US, the Department of Transportation (DOT) has already banned vaping in commercial flights. The ban required result in April 2016 and pertains to all local and overseas incoming flights.
 E-cigarettes are actually allowed aboard planes but you have to observe rules that contain been devote place to ensure safety:
 
- - the storage of most e-cigarettes, incorporating vape pens, during air travel has been regulated as well;
- - neither should e-cigarettes get charged on planes nor should they be transported in checked hand bags.
+-> the storage of most e-cigarettes, incorporating vape pens, during air travel has been regulated as well;
+-> neither should e-cigarettes get charged on planes nor should they be transported in checked hand bags.
 
 __You will want to checked bags?__
 If either damaged, defective or subjected to high temperatures, lithium batteries used to power e-cigarettes may self-ignite hence will not be allowed to vape inside a plane. Morally, it could as well be an inconsiderate act given that passengers next to you could be non-users.

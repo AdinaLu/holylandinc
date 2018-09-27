@@ -2,14 +2,12 @@
 title: Youtube Purge - Youtube Is Shutting Down Marijuana Channels
 date: 2018-9-26 09:40:00
 category: News on Vape
+tags:
+	- youtube
+	- marijuana
 ---
 
 ![](/images/2.jpg)
-
- - How Do Marijuana Videos are ordered to get a reason behind channel shutdown?
- - Weed YouTubers are receiving banned recently - associated with community guidelines violation
- - YouTube indulgence in the Juul hysteria and the get-together involved
- - General result of the public and parents on the Juul epidemic
 
 YouTube has been going after channels that post cannabis-related content
 Recently, there's been a systematic closure of the stations with YouTube citing violation of its community guidelines by the damaged get-together. This closure of cannabis stations has not been taking place in America only.
