@@ -1,10 +1,10 @@
 # Header
 menu:
   Home: /
-  Tags: /tags
-  Categories: /categories
-  Archives: /archives
-  About: /about
+  Tags: tags/
+  Categories: categories/
+  Archives: archives/
+  About: about/
 
 # Content
 excerpt_link: Read more >>
